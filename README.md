@@ -1,4 +1,4 @@
-# Serialize Cython pointers
+# Serialize a Python object that uses Cython and pointers
 
 Using pointers in Cython objects and trying to serialize these
 objects results in errors such as:
